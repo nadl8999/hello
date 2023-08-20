@@ -1,0 +1,7 @@
+print ('NN     N EEEEEE')
+print ('N N    N E')
+print ('N  N   N E')
+print ('N   N  N EEEEE')
+print ('N    N N E')
+print ('N     NN E')
+print ('N      N EEEEEE')
